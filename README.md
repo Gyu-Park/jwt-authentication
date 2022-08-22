@@ -5,16 +5,16 @@
   * JSON Web Token
   * H2
   * Rest API
-  * Post Man
+  * Postman
   
-* Post signup
+* Post signup url
 
 ![Post-Signup](src/main/resources/static/img/1.PNG)
 
-* Get member
+* Get member url
 
 ![Get-Member](src/main/resources/static/img/2.PNG)
 
-* Post signin and response tokens
+* Post signin url and response tokens
 
 ![Post-Signin](src/main/resources/static/img/3.PNG)
