@@ -8,10 +8,13 @@
   * Post Man
   
 * Post signup
-![Post-Signup](src/main/resources/static/img/1.png)
+
+![Post-Signup](src/main/resources/static/img/1.PNG)
 
 * Get member
-![Get-Member](src/main/resources/static/img/2.png)
 
-* Post signin
-![Post-Signin](src/main/resources/static/img/3.png)
+![Get-Member](src/main/resources/static/img/2.PNG)
+
+* Post signin and response tokens
+
+![Post-Signin](src/main/resources/static/img/3.PNG)
