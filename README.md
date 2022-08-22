@@ -15,6 +15,6 @@
 
 ![Get-Member](src/main/resources/static/img/2.PNG)
 
-* Post signin url and response tokens
+* Post signin url and get a result for response tokens
 
 ![Post-Signin](src/main/resources/static/img/3.PNG)
